@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kanc1er
+- 👀 I’m interested in Embedded C, IoT.
+- 📫 You can reach me at kancler756@gmail.com
